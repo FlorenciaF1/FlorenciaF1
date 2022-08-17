@@ -1,10 +1,5 @@
 ### Hi, I'm Florencia 👋🏻👩🏻‍💻
 
-<!--
-**FlorenciaF1/FlorenciaF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the search for my first experience in the IT world.
 - 🌱 I’m currently learning and reinforcing my knowledge with the creation of personal projects.
 - 👯 I’m looking to collaborate on a project that helps me guide.
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: After many hours of writing code, I enter a state called "dumb time" which consists of an abstract state of constant illogical thinking talking to my brain about everything and nothing.
 
--->
