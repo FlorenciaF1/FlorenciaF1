@@ -26,7 +26,7 @@
 
 - 📫 How to reach me:
 - ✅ Linkedin: https://www.linkedin.com/in/florencia-fernandez-fullstack-developer/
-- ✅ Correo: florenciafernandez5102@gmail.com
+- ✅ Correo: florencia.fernandez.dev@gmail.com
 
 
 <h2 align="center">
